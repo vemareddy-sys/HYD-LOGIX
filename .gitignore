@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and Build
+node_modules/
+dist/
+dist-ssr/
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+
+# Python virtual environments & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Large / Generated OSM Datasets & Caches (Not needed for browser deployment)
+cache/
+public/data/hyderabad_full/
+
+# Temporary / Scratch
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

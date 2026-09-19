@@ -1,0 +1,22 @@
+{
+  "regionName": "Hyderabad Corridor (Gachibowli - HITEC City - Jubilee Hills)",
+  "source": "OpenStreetMap contributors via OSMnx",
+  "generatedAt": "2026-09-18T15:30:53Z",
+  "nodeCount": 9693,
+  "directedEdgeCount": 23529,
+  "parallelEdgeCount": 67,
+  "bounds": {
+    "minLat": 17.4150328,
+    "maxLat": 17.4799834,
+    "minLng": 78.3300209,
+    "maxLng": 78.4199974
+  },
+  "fileSizes": {
+    "nodesKb": 557.7,
+    "edgesKb": 7276.57,
+    "totalMb": 7.65
+  },
+  "processingTimeSeconds": 0.548,
+  "preprocessingVersion": "1.0.0",
+  "geometryRetained": true
+}
